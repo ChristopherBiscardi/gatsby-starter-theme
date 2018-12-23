@@ -5,6 +5,10 @@
   "repository": "git@github.com:ChristopherBiscardi/gatsby-theme-minimal-example.git",
   "author": "christopherbiscardi <chris@christopherbiscardi.com> (@chrisbiscardi)",
   "license": "MIT",
+  "scripts": {
+    "develop": "gatsby develop",
+    "build": "gatsby build"
+  },
   "dependencies": {
     "gatsby": "^2.0.75",
     "gatsby-theme-minimal": "^1.0.0",
