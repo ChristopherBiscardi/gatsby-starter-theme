@@ -7,6 +7,6 @@
   "license": "MIT",
   "workspaces": [
     "gatsby-theme-minimal",
-    "gatsby-theme-minimal-example"
+    "example"
   ]
 }
