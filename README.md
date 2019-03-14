@@ -19,7 +19,7 @@ yarn workspace gatsby-theme-minimal-example develop
 │   ├── gatsby-config.js
 │   ├── index.js
 │   └── package.json
-├── gatsby-theme-minimal-example
+├── example
 │   ├── README.md
 │   ├── gatsby-config.js
 │   ├── package.json
@@ -48,12 +48,12 @@ example directory's `package.json`/`gatsby-config.js`.
     The dependencies that your theme will pull in when people install
     it. `gatsby` should be a `peerDependency`.
 
-### gatsby-theme-minimal-example
+### example
 
 This is an example usage of your theme. It should look the same as the
 site of someone who installed and used your theme from npm.
 
-- `gatsby-theme-minimal-example/`
+- `example/`
   - gatsby-config.js
     Specifies which theme to use and any other one-off config a site
     might need.
