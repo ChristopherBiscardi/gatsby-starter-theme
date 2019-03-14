@@ -60,3 +60,9 @@ site of someone who installed and used your theme from npm.
   - src/
     source code such as one-off pages or components that might live in
     a user's site.
+
+You can run the example with:
+
+```sh
+yarn workspace example start
+```
