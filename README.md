@@ -5,7 +5,7 @@ Gatsby starter for creating a theme
 ```shell
 gatsby new my-theme https://github.com/ChristopherBiscardi/gatsby-starter-theme
 cd my-theme
-yarn workspace gatsby-theme-minimal-example develop
+yarn workspace example develop
 ```
 
 ## Layout
