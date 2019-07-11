@@ -1,3 +1,3 @@
 module.exports = {
-  __experimentalThemes: [{ resolve: "gatsby-theme-minimal", options: {} }]
+  plugins: [{ resolve: "gatsby-theme-minimal", options: {} }]
 };
